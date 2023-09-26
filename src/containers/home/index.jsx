@@ -1,10 +1,19 @@
 import React from "react";
+import Particles from "react-tsparticles";
+import particles from "../../utils.js/particles";
+import { loadFull } from "tsparticles";
 import { useNavigate } from "react-router-dom";
 import { Animate } from "react-simple-animate";
 import "./styles.scss";
 
 const Home = () => {
+  
   const navigate = useNavigate();
+
+  const handleInit = async (main) => {
+    await loadFull(main);
+  };
+
 
   const handleNavigateToContactMePage = () => {
     navigate("/contact");
@@ -12,6 +21,7 @@ const Home = () => {
 
   return (
     <section id="home" className="home">
+      <Particles id="particles" options={particles} init={handleInit} />
       <div className="home__text-wrapper">
         <h1>
           Hello, I'm Toheeb Opeyemi

@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       {/* particles js */}
 
-      <Particles id="particles" options={particles} init={handleInit} />
+      {/* <Particles id="particles" options={particles} init={handleInit} /> */}
 
       {/* navbar */}
       <Navbar />
