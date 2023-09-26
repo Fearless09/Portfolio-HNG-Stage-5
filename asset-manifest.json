@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-HNG-Stage-5/static/css/main.df8cf535.css",
-    "main.js": "/Portfolio-HNG-Stage-5/static/js/main.401e0525.js",
+    "main.js": "/Portfolio-HNG-Stage-5/static/js/main.33dba95a.js",
     "static/media/blogr.jpg": "/Portfolio-HNG-Stage-5/static/media/blogr.deeed775f084f4658b57.jpg",
     "static/media/ecormmerce.jpg": "/Portfolio-HNG-Stage-5/static/media/ecormmerce.16eb19a210a6e752c89b.jpg",
     "static/media/room.jpg": "/Portfolio-HNG-Stage-5/static/media/room.c9404994f94367900ba4.jpg",
@@ -10,10 +10,10 @@
     "static/media/tips-calculator.jpg": "/Portfolio-HNG-Stage-5/static/media/tips-calculator.8a2a866be75beecc8e7a.jpg",
     "index.html": "/Portfolio-HNG-Stage-5/index.html",
     "main.df8cf535.css.map": "/Portfolio-HNG-Stage-5/static/css/main.df8cf535.css.map",
-    "main.401e0525.js.map": "/Portfolio-HNG-Stage-5/static/js/main.401e0525.js.map"
+    "main.33dba95a.js.map": "/Portfolio-HNG-Stage-5/static/js/main.33dba95a.js.map"
   },
   "entrypoints": [
     "static/css/main.df8cf535.css",
-    "static/js/main.401e0525.js"
+    "static/js/main.33dba95a.js"
   ]
 }
