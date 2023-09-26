@@ -9,7 +9,7 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "Ajayi Toheeb Opeyemi",
+    value: "AJAYI Toheeb Opeyemi",
   },
   {
     label: "Age",
@@ -21,7 +21,7 @@ const personalDetails = [
   },
   {
     label: "Email",
-    value: "toheebopeyemi9@.com",
+    value: "toheebopeyemi9@gmail.com",
   },
   {
     label: "Contact No",
